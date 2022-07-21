@@ -1,6 +1,6 @@
 {
   "name": "fansapp-react-native-root-tips",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "very simple and powerful way to show a toast in react-native",
   "main": "./index.js",
   "types": "./index.d.ts",
